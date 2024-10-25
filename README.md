@@ -1,7 +1,7 @@
 # Rule Engine with AST
 
 ## Objective
-Develop a simple 3-tier rule engine application with a user interface, API, and backend data storage to determine user eligibility based on attributes like age, income, and spend. The system uses an Abstract Syntax Tree (AST) to represent conditional rules and allows for dynamic creation, combination, and modification of these rules.
+Developed a simple 3-tier rule engine application with a user interface, API, and backend data storage to determine user eligibility based on attributes like age, income, and spend. The system uses an Abstract Syntax Tree (AST) to represent conditional rules and allows for dynamic creation, combination, and modification of these rules.
 
 ## Data Structure
 The data structure to represent the AST is defined as follows:
