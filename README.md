@@ -45,8 +45,24 @@ The data structure to represent the AST is defined as follows:
 - Allow modification of existing rules using functionalities within `create_rule` or separate functions (e.g., changing operators, operand values).
 - Consider extending the system to support user-defined functions within the rule language for advanced conditions.
 
-## Installation
-1. Clone the repository:
-```bash
-git clone <repository_url>
+
+## Running the Project:
+### Tools Required:
+- **VS Code**
+- **Node.js**
+- **MongoDB Compass** (optional for better data visualization of Data)
+
+### Setup Instructions
+1. Clone the project or download the ZIP file and extract it.
+   ```bash
+   git clone https://github.com/Yuvaraj133/Zeotap-Weatherry.git
+2. Run the following command to install necessary packages:
+   ```bash
+   npm install mongoose express dotenv ejs
+3. Start the project:
+   ```bash
+   node index.js
+4. Open your browser and go to:
+   ```bash
+   http://localhost:3000
 
